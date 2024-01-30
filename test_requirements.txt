@@ -1,0 +1,3 @@
+mockpip i
+pytest
+flake8
